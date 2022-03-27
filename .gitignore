@@ -1,0 +1,30 @@
+# Dependency directories
+!hapi-auth-plugin/*
+node_modules
+jspm_packages
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+.env
+
+# Cert/key Exception List
+arm/_generated_arm.json
+#doctor results
+/.clinic
+
+#vscode config files
+.vscode/
+dist/
